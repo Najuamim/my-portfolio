@@ -1,0 +1,109 @@
+p{
+color: blue;
+}
+.top{
+}
+.top li{
+ display: inline;
+ margin-left: 5%;
+ float: right;
+ 
+}
+.tp{
+text-decoration: none;
+}
+.main{
+    color: tomato;
+}
+#main2{
+    color: tomato;
+}
+.main3{
+    
+    text-align: center;
+}
+.img{
+    width: 45%;
+    height: 45%;
+}
+body{
+font-family: 'Roboto Slab', serif;
+}
+.bio{
+    width:40%;
+margin: 2%;
+padding:2% ;
+float: left;
+} 
+.click{
+    text-decoration: none;
+    background-image: -webkit-linear-gradient( 45deg,darkblue ,skyblue);
+    border: black;
+    padding: 5px 5px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.agency{
+    border-radius: 5%;
+    height:38% ;
+    width: 28%;
+    float: left;
+    box-shadow: 10px 10px 40px rgb(122, 122, 122);
+    margin-left: 3%;
+    padding-left: 10px;
+}
+
+.about{
+    float: left;
+}
+.image{
+    padding: 5%;
+    width: 80%;
+    height: 20%;
+    border-radius: 10%;
+    margin: 4%;
+}
+
+footer p{
+    text-align: center;
+     font-size: 12px;
+     margin-left: 30%;
+}
+.portfolio{
+    color:white;
+}
+.backgroun{
+    background-image: url(images/back.png);
+       background-repeat: no-repeat;
+       background-position: bottom;
+      clear: both;
+       margin-top: 15%;
+       background-size:700px ;
+       min-height: 400px;
+       margin-bottom: 20%;
+        margin-right: 2%;
+}
+ .portfolio
+{
+    float:left;
+    width: 40%;
+    font-size: 30px;
+    color: white;
+    margin-left: 30%;
+    margin-top: 22%;
+}
+.Click2
+{
+    float: right;
+    margin-right: 30%;
+    margin-bottom: 420px;
+    margin-top: -4.5%;
+    text-decoration: none;
+    background-color:springgreen;
+    padding: 5px 5px;
+    border-radius: 10px;
+    color: white;
+
+}
